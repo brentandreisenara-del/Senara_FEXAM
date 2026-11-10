@@ -1,8 +1,4 @@
 
--- ==========================================
--- CPE C307 ADVANCED DATABASE
--- BRENT ANDREI C. SENARA
--- ==========================================
 
 -- 1. CREATE 2 DATABASES
 
